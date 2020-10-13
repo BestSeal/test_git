@@ -1,2 +1,3 @@
 out_info = "Hi, i'm very simple project"
-print(out_info)
+out_add = "and i can add more output"
+print(out_info + out_add)
